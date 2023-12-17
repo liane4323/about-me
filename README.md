@@ -6,4 +6,12 @@ Hello!! I am a Yemeni-American who lives in NYC. I am currently attending the Hi
 
 ---
 
+#### ME **Favorite** 3 Desserts
+
+1. Kanafeh
+2. Harissa
+3. Ice Cream
+
+
+
 
