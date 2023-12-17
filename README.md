@@ -12,6 +12,12 @@ Hello!! I am a Yemeni-American who lives in NYC. I am currently attending the Hi
 2. Harissa
 3. Ice Cream
 
+#### ME Interests
+
+* Tiger Sugar
+  * Bubble Tea
+    * Brown Milk Tea
+    * Matcha Bubble Tea
 
 
 
