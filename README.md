@@ -19,5 +19,9 @@ Hello!! I am a Yemeni-American who lives in NYC. I am currently attending the Hi
     * Brown Milk Tea
     * Matcha Bubble Tea
 
+## <ins> Contact: </ins>
 
+_liane2@nycstudents.net_
+
+_[Portfolio](https://liane4323.github.io/)_
 
